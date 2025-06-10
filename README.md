@@ -12,11 +12,11 @@ Enhance the customer experience and increase your conversion rate with a sliding
 
 You can customize virtually all visual elements of the side ajax cart page:&#x20;
 
-* Mobile-first design for better conversion rates
-* Text string translation to your local language
-* View Cart, Checkout, Continue Shopping areas are fully customizable
-* Customize cart page width, height, colors, layout, and almost any text/visuals
-* Choose how Ajax cart page looks like and easily enable/disable elements you want to show in the cart
-* Products sorting order in a cart page
-* Disable off-canvas cart and floating cart icon on specific (or even all non-WooCommerce) pages
+* Mobile-first design for better conversion rates.
+* Text string translation to your local language.
+* View Cart, Checkout, Continue Shopping areas are fully customizable.
+* Customize cart page width, height, colors, layout, and almost any text/visuals.
+* Choose how Ajax cart page looks like and easily enable/disable elements you want to show in the cart.
+* Products sorting order in a cart page.
+* Disable off-canvas cart and floating cart icon on specific (or even all non-WooCommerce) pages.
 * Custom CSS stylesheet for extra flexibility.
